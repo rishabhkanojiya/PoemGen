@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.vscode
+hin-eng
+hin-eng.zip
+__pycache__
+*pyc
+EMBEDDING.py
